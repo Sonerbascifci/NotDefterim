@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969925467000",
+    "project_id": "notdefrt",
+    "storage_bucket": "notdefrt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969925467000:android:80c50e25860038bf61868d",
+        "android_client_info": {
+          "package_name": "com.notdefterim.not_defterim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5z3SULiGaaCzgRp7mpyYO_G8HgGA72s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
